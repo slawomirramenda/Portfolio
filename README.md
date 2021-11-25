@@ -29,3 +29,5 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * remigiuszbednarczyk.pl
 * pwicherski.gitbook.io
 # Webinars
+* Software Tester - Software Development Academy
+* 
