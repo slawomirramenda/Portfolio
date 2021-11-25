@@ -12,4 +12,5 @@ My name is Sławomir Ramenda. I have bachelor's degree in personnel management a
 * SQL
 # Certificates
 [ISTQB Foundation Level](http://scr.istqb.org/) - No 017056/CTFL/2021
+[ECDL Advanced Spreadsheets](https://weryfikacja.pti.org.pl/) - No f5e1ij553g
 
