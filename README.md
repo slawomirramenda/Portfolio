@@ -5,8 +5,8 @@ My name is Sławomir Ramenda. I have bachelor's degree in personnel management a
 * TestLink
 * Jira
 # Tech skills
-* SQL
-* DevTools
 * Software testing
 * Creating test cases
 * Reporting bugs
+* DevTools
+* SQL
