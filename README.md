@@ -31,4 +31,6 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 # Webinars
 * Software Tester - Software Development Academy
 # Test project
-* [Test project Bonito.pl](https://drive.google.com/file/d/1nbhWJ7fm0PfFXgzFE3sex3R2pvUB9Qz3/view?usp=sharing)[.xml]
+* [Test project Bonito.pl](https://drive.google.com/file/d/1nbhWJ7fm0PfFXgzFE3sex3R2pvUB9Qz3/view?usp=sharing) [.xml]
+# Test results
+* [Test results Bonito.pl](https://docs.google.com/spreadsheets/d/1_fMgOCLYX_170AbYjQAZX1y7l6NJkYvF/edit?usp=sharing&ouid=108063018756279917681&rtpof=true&sd=true)
