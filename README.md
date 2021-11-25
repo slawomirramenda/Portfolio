@@ -11,8 +11,21 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * DevTools
 * SQL
 # Certificates
-[ISTQB Foundation Level](http://scr.istqb.org/) - No 017056/CTFL/2021
-[ECDL Advanced Spreadsheets](https://weryfikacja.pti.org.pl/) - No f5e1ij553g
+* [ISTQB Foundation Level](http://scr.istqb.org/) - No 017056/CTFL/2021
+* [ECDL Advanced Spreadsheets](https://weryfikacja.pti.org.pl/) - No f5e1ij553g
 # Courses
-Podstawy manualnego testowania oprogramowania - udemy.com
-Kurs tworzenia zapytań w języku SQL z użyciem SQL Server - udemy.com
+* Podstawy manualnego testowania oprogramowania - udemy.com
+* Kurs tworzenia zapytań w języku SQL z użyciem SQL Server - udemy.com
+# Books
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB - poziom podstawowy, wyd. Helion, 2020
+# Groups on Facebook
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Gildia Testerów
+# Recommended blogs
+* testerzy.pl
+* testuj.pl
+* wyszkolewas.com.pl/blog/
+* remigiuszbednarczyk.pl
+* pwicherski.gitbook.io
+# Webinars
