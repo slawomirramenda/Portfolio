@@ -10,3 +10,6 @@ My name is Sławomir Ramenda. I have bachelor's degree in personnel management a
 * Reporting bugs
 * DevTools
 * SQL
+# Certificates
+[ISTQB Foundation Level (http://scr.istqb.org/ - No 017056/CTFL/2021
+
