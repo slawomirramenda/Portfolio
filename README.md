@@ -14,6 +14,7 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * [ISTQB Foundation Level](http://scr.istqb.org/) - No 017056/CTFL/2021
 * [ECDL Advanced Spreadsheets](https://weryfikacja.pti.org.pl/) - No f5e1ij553g
 ## Courses
+* Tester oprogramowania - wyszkolewas.com.pl
 * Podstawy manualnego testowania oprogramowania - udemy.com
 * Kurs tworzenia zapytań w języku SQL z użyciem SQL Server - udemy.com
 ## Books
