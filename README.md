@@ -24,10 +24,10 @@ A. Roman, L. Stapp - Certyfikowany tester ISTQB - poziom podstawowy, wyd. Helion
 * Testowanie oprogramowania
 * Gildia Testerów
 ## Recommended blogs
-* testerzy.pl
-* testuj.pl
 * wyszkolewas.com.pl/blog/
 * remigiuszbednarczyk.pl
+* testerzy.pl
+* testuj.pl
 * pwicherski.gitbook.io
 ## Webinars
 Software Tester - Software Development Academy
