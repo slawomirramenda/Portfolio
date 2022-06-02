@@ -10,6 +10,8 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * Reporting bugs
 * DevTools
 * SQL
+* HTML
+* CSS
 ## Certificates
 * [ISTQB Foundation Level](http://scr.istqb.org/) - No 017056/CTFL/2021
 * [ECDL Advanced Spreadsheets](https://weryfikacja.pti.org.pl/) - No f5e1ij553g
@@ -19,6 +21,9 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * Kurs tworzenia zapytań w języku SQL z użyciem SQL Server - udemy.com
 ## Books
 A. Roman, L. Stapp - Certyfikowany tester ISTQB - poziom podstawowy, wyd. Helion, 2020
+A. Stellman, J. Greene - C#. Rusz głową!, wyd. Helion, 2022
+J. Albahari - C# 9.0 w pigułce, wyd. Helion, 2022
+M. J. Kubiak - C#. Zadania z programowania z przykładowymi rozwiązaniami, wyd. Helion, 2021
 ## Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
