@@ -20,10 +20,10 @@ My name is Sławomir Ramenda. I am pharmaceutical technician and I have bachelor
 * Podstawy manualnego testowania oprogramowania - udemy.com
 * Kurs tworzenia zapytań w języku SQL z użyciem SQL Server - udemy.com
 ## Books
-A. Roman, L. Stapp - Certyfikowany tester ISTQB - poziom podstawowy, wyd. Helion, 2020
-A. Stellman, J. Greene - C#. Rusz głową!, wyd. Helion, 2022
-J. Albahari - C# 9.0 w pigułce, wyd. Helion, 2022
-M. J. Kubiak - C#. Zadania z programowania z przykładowymi rozwiązaniami, wyd. Helion, 2021
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB - poziom podstawowy, wyd. Helion, 2020
+* A. Stellman, J. Greene - C#. Rusz głową!, wyd. Helion, 2022
+* J. Albahari - C# 9.0 w pigułce, wyd. Helion, 2022
+* M. J. Kubiak - C#. Zadania z programowania z przykładowymi rozwiązaniami, wyd. Helion, 2021
 ## Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
